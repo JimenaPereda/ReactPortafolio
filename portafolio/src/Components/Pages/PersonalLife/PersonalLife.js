@@ -11,19 +11,18 @@ function PersonalLife(){
       <div>
            <Row>
               <Col className="col1">
-               <img src={perImg} alt="" />
+               <img className="PerImg" src={perImg} alt="" />
               </Col>,
 
               <Col className="col2">
-               <h1>This is a little recap frommy life</h1>
+               <h1>This is a little recap <br />
+                  from my life</h1>
+             
+                <div className="video">
+                   <video src={Video} autoPlay="true" />
+                </div>
               </Col>,
-
-
-              <div className="video">
-               <video src={Video} autoPlay="true" />
-              </div>
-
-           </Row>
+            </Row>
       </div>
     );
 

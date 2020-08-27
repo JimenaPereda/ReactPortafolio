@@ -1,0 +1,7 @@
+CardGroup{
+    display: flex;
+}
+.cardCoint{
+    width: 200px;
+    height: 300px;
+}

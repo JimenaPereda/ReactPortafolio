@@ -1,0 +1,15 @@
+.jumboCoint{
+    padding-left: 27%;
+    
+}
+
+.jumbo{
+    width: 571px;
+    height: 773px;
+    background-image: url(./Images/aboutm.png);
+    object-fit: cover;
+  object-position:  center;
+  background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
