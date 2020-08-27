@@ -1,16 +1,15 @@
-
+body.home {
+    background-color: black;
+}
 .homebod{
     background:black;
       margin-top: -1px;
      margin-bottom: -1px;
 }
 
-img {
-   
-    margin-left: auto;
-    margin-right: auto;
-    width: 85%;
-    vertical-align: middle;
-    border-style: none;
-    
+.backG{
+  margin-bottom: 0px;
+        margin-top: 0px;
+        display: block;
+        background: black; 
 }
